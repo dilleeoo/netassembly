@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://netassembly.org/categories/</loc>
   </url><url>
-    <loc>http://example.org/get-aquote/</loc>
+    <loc>http://netassembly.org/get-aquote/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://netassembly.org/</loc>
   </url><url>
-    <loc>http://example.org/services/</loc>
+    <loc>http://netassembly.org/services/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://netassembly.org/tags/</loc>
   </url>
 </urlset>
