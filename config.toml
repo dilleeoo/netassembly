@@ -2,3 +2,4 @@ baseURL = 'http://netassembly.org/'
 languageCode = 'en-us'
 title = 'Net Assemble'
 publishDir = "docs"
+googleAnalytics = "G-W7QDRS1N38"
